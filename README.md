@@ -3,10 +3,10 @@ irule-99bottles
 
 99 Bottles of Beer in iRules.
 
-# Add iRule irule.99bottles to your BIG-IP
-# Create virtual service with iRule associated
-# ???
-# profit
+1. Add iRule irule.99bottles to your BIG-IP
+2. Create virtual service with iRule associated
+3. ???
+4. profit
 
 ```
   tmsh create / ltm virtual vip.99bottles.10000 { \
